@@ -1,4 +1,6 @@
+# EX 8
 # THRESHOLDING
+# DATE
 ## Aim
 To segment the image using global thresholding, adaptive thresholding and Otsu's thresholding using python and OpenCV.
 
@@ -23,8 +25,8 @@ Implement adaptive thresholding (mean and Gaussian) using cv2.adaptiveThreshold(
 ### Step5:
 Use matplotlib to visualize the original image and the thresholded results side by side in subplots, with appropriate titles for each technique used.
 
-Developed by : BOOBESH PM
-Register no : 212222233001
+## Developed by : BOOBESH PM
+## Register no : 212222233001
 ## Program
 ```python
 import cv2
